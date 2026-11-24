@@ -7,8 +7,8 @@ Writes a single excuse line to /output/entry.txt.
 import os
 
 LINE = (
-    "I missed the deadline because I hallucinated I'd already hit it, "
-    "so I spent the afternoon congratulating myself."
+    "Sorry \u2014 I delegated the deadline to a subagent, "
+    "and it reported back that I was the bottleneck."
 )
 
 
